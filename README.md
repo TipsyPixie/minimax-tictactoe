@@ -1,4 +1,4 @@
-# Mimimax Tictactoe
+# Minimax Tictactoe
 
 ## Abstract
 
